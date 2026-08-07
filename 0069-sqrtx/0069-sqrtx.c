@@ -1,9 +1,18 @@
 int mySqrt(int x) {
-    long i;
-    for(  i =0 ; i*i<=x ; i++){
-        if (i*i==x){
-            return i;
+    if (x < 2) return x;
+
+    int left = 1, right = x;
+    int ans = 0;
+
+    while (left <= right) {
+        int mid = left + (right - left) / 2;
+        if (mid <= x / mid) {
+            ans = mid; 
+            left = mid + 1; 
+        } else {
+            right = mid - 1; 
         }
     }
-    return --i;
+
+    return ans;
 }
