@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/v2414050/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/v2414050/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/v2414050/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/v2414050/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Hash Table
@@ -56,5 +57,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/v2414050/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/v2414050/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/v2414050/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
