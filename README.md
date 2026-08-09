@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/v2414050/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0058-length-of-last-word](https://github.com/v2414050/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
