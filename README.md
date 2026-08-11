@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/v2414050/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0258-add-digits](https://github.com/v2414050/Leetcode/tree/main/0258-add-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/v2414050/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/v2414050/Leetcode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/v2414050/Leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
