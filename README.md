@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/v2414050/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/v2414050/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/v2414050/Leetcode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/v2414050/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/v2414050/Leetcode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
