@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/v2414050/Leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/v2414050/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/v2414050/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
