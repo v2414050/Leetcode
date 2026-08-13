@@ -1,13 +1,3 @@
-bool isPowerOfThree(int n) {
-      long i =1;
-    L1:
-        if(i<=n){
-            if(i==n||n==1)
-        return true;
-        i=i*3;
-        goto L1;
-        }
-    
-   return false; 
-
+bool isPowerOfThree(int n) { 
+    return n > 0 && (int)pow(3,19) % n == 0;
 }
