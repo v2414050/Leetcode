@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/v2414050/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/v2414050/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/v2414050/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0326-power-of-three](https://github.com/v2414050/Leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +93,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/v2414050/Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/v2414050/Leetcode/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
