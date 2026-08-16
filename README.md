@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/v2414050/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/v2414050/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/v2414050/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
+| [3908-valid-digit-number](https://github.com/v2414050/Leetcode/tree/main/3908-valid-digit-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
