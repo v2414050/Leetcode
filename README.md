@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/v2414050/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/v2414050/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/v2414050/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0204-count-primes](https://github.com/v2414050/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/v2414050/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/v2414050/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0204-count-primes](https://github.com/v2414050/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/v2414050/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/v2414050/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/v2414050/Leetcode/tree/main/0326-power-of-three/) | Easy |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/v2414050/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/v2414050/Leetcode/tree/main/0258-add-digits/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/v2414050/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2843-count-symmetric-integers](https://github.com/v2414050/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -120,4 +124,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/v2414050/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/v2414050/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/v2414050/Leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/v2414050/Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
