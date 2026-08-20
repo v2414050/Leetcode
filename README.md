@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/v2414050/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/v2414050/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/v2414050/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/v2414050/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/v2414050/Leetcode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/v2414050/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/v2414050/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0326-power-of-three](https://github.com/v2414050/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/v2414050/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/v2414050/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/v2414050/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/v2414050/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/v2414050/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
