@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/v2414050/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/v2414050/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/v2414050/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/v2414050/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/v2414050/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/v2414050/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/v2414050/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
