@@ -1,0 +1,16 @@
+int* findErrorNums(int* nums, int numsSize, int* returnSize) {
+    *returnSize = 2;
+    int* result = (int*)malloc(2 * sizeof(int));
+    int count[10001] = {0}; 
+    
+    for (int i = 0; i < numsSize; i++) {
+        count[nums[i]]++;
+    }
+    
+    for (int i = 1; i <= numsSize; i++) {
+        if (count[i] == 2) result[0] = i; 
+        if (count[i] == 0) result[1] = i; 
+    }
+    
+    return result;
+}
