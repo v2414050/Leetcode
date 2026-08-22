@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/v2414050/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/v2414050/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/v2414050/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0724-find-pivot-index](https://github.com/v2414050/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1470-shuffle-the-array](https://github.com/v2414050/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/v2414050/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/v2414050/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0264-ugly-number-ii](https://github.com/v2414050/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/v2414050/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/v2414050/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/v2414050/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/v2414050/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0201-bitwise-and-of-numbers-range](https://github.com/v2414050/Leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/v2414050/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/v2414050/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
