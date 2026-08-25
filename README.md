@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-find-the-k-beauty-of-a-number](https://github.com/v2414050/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/v2414050/Leetcode/tree/main/2843-count-symmetric-integers/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/v2414050/Leetcode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/v2414050/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3908-valid-digit-number](https://github.com/v2414050/Leetcode/tree/main/3908-valid-digit-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
