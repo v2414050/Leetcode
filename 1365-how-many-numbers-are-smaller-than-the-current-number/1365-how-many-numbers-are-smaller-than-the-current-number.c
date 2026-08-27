@@ -5,7 +5,6 @@ int* smallerNumbersThanCurrent(int* nums, int numsSize, int* returnSize) {
     int count[101] = {0};
     int* result = (int*)malloc(sizeof(int) * numsSize);
     
-    // 1. Count occurrences of each number
     for (int i = 0; i < numsSize; i++) {
         count[nums[i]]++;
     }
