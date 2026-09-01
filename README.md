@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/v2414050/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/v2414050/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/v2414050/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/v2414050/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/v2414050/Leetcode/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/v2414050/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/v2414050/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/v2414050/Leetcode/tree/main/3274-check-if-two-chessboard-squares-have-the-same-color/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/v2414050/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/v2414050/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/v2414050/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/v2414050/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/v2414050/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
