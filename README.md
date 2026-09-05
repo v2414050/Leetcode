@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/v2414050/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0326-power-of-three](https://github.com/v2414050/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/v2414050/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/v2414050/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/v2414050/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/v2414050/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/v2414050/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/v2414050/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0069-sqrtx](https://github.com/v2414050/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0367-valid-perfect-square](https://github.com/v2414050/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
