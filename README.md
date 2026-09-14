@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/v2414050/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/v2414050/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/v2414050/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0836-rectangle-overlap](https://github.com/v2414050/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/v2414050/Leetcode/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/v2414050/Leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/v2414050/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -197,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/v2414050/Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/v2414050/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
