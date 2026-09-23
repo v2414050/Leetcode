@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/v2414050/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/v2414050/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/v2414050/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/v2414050/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/v2414050/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/v2414050/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/v2414050/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/v2414050/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/v2414050/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/v2414050/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/v2414050/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/v2414050/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/v2414050/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0367-valid-perfect-square](https://github.com/v2414050/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0201-bitwise-and-of-numbers-range](https://github.com/v2414050/Leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0231-power-of-two](https://github.com/v2414050/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/v2414050/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/v2414050/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/v2414050/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/v2414050/Leetcode/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -223,4 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/v2414050/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/v2414050/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/v2414050/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/v2414050/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
