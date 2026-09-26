@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/v2414050/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/v2414050/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/v2414050/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/v2414050/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/v2414050/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/v2414050/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/v2414050/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0264-ugly-number-ii](https://github.com/v2414050/Leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/v2414050/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/v2414050/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/v2414050/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/v2414050/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -46,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/v2414050/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/v2414050/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/v2414050/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/v2414050/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/v2414050/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/v2414050/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/v2414050/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/v2414050/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0645-set-mismatch](https://github.com/v2414050/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/v2414050/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Quicksort
@@ -119,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/v2414050/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/v2414050/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/v2414050/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/v2414050/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/v2414050/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
